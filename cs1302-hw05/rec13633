@@ -1,0 +1,38 @@
+cs1302-hw05/:
+total 24
+drwxr-xr-x. 3 myid    28 Feb 24 00:47 bin
+-rw-r--r--. 1 myid  3899 Feb 24 00:11 CP1.md
+drwxr-xr-x. 2 myid    41 Feb 24 00:11 lib
+-rw-r--r--. 1 myid 16343 Feb 24 00:11 README.md
+-rw-r--r--. 1 myid     0 Feb 24 01:07 rec13633
+drwxr-xr-x. 3 myid    28 Feb 24 00:11 src
+-rw-r--r--. 1 myid    52 Feb 24 01:07 SUBMISSION.md
+
+cs1302-hw05/bin:
+total 0
+drwxr-xr-x. 3 myid 26 Feb 24 00:47 cs1302
+
+cs1302-hw05/bin/cs1302:
+total 0
+drwxr-xr-x. 2 myid 26 Feb 24 00:47 hw05
+
+cs1302-hw05/bin/cs1302/hw05:
+total 4
+-rw-r--r--. 1 myid 1157 Feb 24 01:04 Driver.class
+
+cs1302-hw05/lib:
+total 8
+-rw-r--r--. 1 myid 4525 Feb 24 00:11 cs1302-str-list.jar
+
+cs1302-hw05/src:
+total 0
+drwxr-xr-x. 3 myid 26 Feb 24 00:11 cs1302
+
+cs1302-hw05/src/cs1302:
+total 0
+drwxr-xr-x. 2 myid 51 Feb 24 01:04 hw05
+
+cs1302-hw05/src/cs1302/hw05:
+total 4
+-rw-r--r--. 1 myid 1997 Feb 24 01:04 Driver.java
+/home/myid/myy04663/cs1302-hw05/:/home/myid/csci-1302

@@ -1,0 +1,20 @@
+cs1302-hw0.5:
+total 12
+drwxr-xr-x. 2 myid  107 Jan 19 20:10 bin
+-rw-r--r--. 1 myid 7470 Jan 19 19:56 README.md
+-rw-r--r--. 1 myid    0 Jan 19 20:36 rec30165
+drwxr-xr-x. 2 myid   88 Jan 19 20:30 src
+-rw-r--r--. 1 myid   25 Jan 19 20:32 SUBMISSION.md
+
+cs1302-hw0.5/bin:
+total 16
+-rw-r--r--. 1 myid 2353 Jan 19 20:31 TicTacToeGame.class
+-rw-r--r--. 1 myid 1835 Jan 19 20:10 TicTacToeRunner.class
+-rw-r--r--. 1 myid 4536 Jan 19 20:09 TicTacToeTester.class
+
+cs1302-hw0.5/src:
+total 20
+-rw-r--r--. 1 myid 6077 Jan 19 20:30 TicTacToeGame.java
+-rw-r--r--. 1 myid 2417 Jan 19 19:56 TicTacToeRunner.java
+-rw-r--r--. 1 myid 7096 Jan 19 19:56 TicTacToeTester.java
+/home/myid/myy04663/cs1302-hw0.5:/home/myid/csci-1302
